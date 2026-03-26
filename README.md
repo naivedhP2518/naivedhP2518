@@ -20,15 +20,24 @@
 
 # 🌐 Connect With Me:
 <p align="center">
+
+  <!-- Instagram -->
   <a href="https://instagram.com/ladlijiibarsana">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" title="Instagram"/>
   </a>
+  &nbsp;
+
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/naivedh2518">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" title="LinkedIn"/>
   </a>
+  &nbsp;
+
+  <!-- Gmail -->
   <a href="mailto:naivedhpatel2518@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" title="Email"/>
   </a>
+
 </p>
 
 ---
@@ -51,15 +60,17 @@
 
 ### Creative & Other
 
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40"/>
+<img src="https://cdn.simpleicons.org/amd/ED1C24" width="40"/>
+<img src="https://cdn.simpleicons.org/nodemon/76D04B" width="40"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mocha" height="48" width="48" title="Mocha"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ps" height="48" width="48" title="Photoshop"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=lr" height="48" width="48" title="Lightroom"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pr" height="48" width="48" title="Premiere Pro"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ae" height="48" width="48" title="After Effects"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ai" height="48" width="48" title="Illustrator"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mocha" height="48" width="48" title="Mocha"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cisco" height="48" width="48" title="Cisco"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=amd" height="48" width="48" title="AMD"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodemon" height="48" width="48" title="Nodemon"/>
+
+
 
 </div>
 
