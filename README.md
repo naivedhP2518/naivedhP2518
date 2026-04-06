@@ -86,6 +86,7 @@
   <a href="https://tailwindcss.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=tailwind" height="50"/></a>
   <a href="https://threejs.org/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=threejs" height="50"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=dotnet" height="50"/></a>
+  <a href="https://gsap.com/" target="_blank" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/greensock/88CE02" height="50"/></a>
 </p>
 
 ### Databases & Cloud
