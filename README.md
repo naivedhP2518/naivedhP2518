@@ -47,30 +47,79 @@
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,cs,html,java,js,php,ts" />
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+  <a href="https://en.cppreference.com/w/c" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+</p>
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=angular,bootstrap,django,express,fastapi,flask,nextjs,nodejs,react,spring,tailwind,threejs,dotnet" />
+<p align="center">
+  <a href="https://angular.io/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=angular" height="50"/></a>
+  <a href="https://getbootstrap.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=bootstrap" height="50"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=django" height="50"/></a>
+  <a href="https://expressjs.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=express" height="50"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=fastapi" height="50"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=flask" height="50"/></a>
+  <a href="https://nextjs.org/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=nextjs" height="50"/></a>
+  <a href="https://nodejs.org/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=nodejs" height="50"/></a>
+  <a href="https://react.dev/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=react" height="50"/></a>
+  <a href="https://spring.io/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=spring" height="50"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=tailwind" height="50"/></a>
+  <a href="https://threejs.org/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=threejs" height="50"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=dotnet" height="50"/></a>
+</p>
 
 ### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=mongodb" height="50"/></a>
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=mysql" height="50"/></a>
+  <a href="https://firebase.google.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=firebase" height="50"/></a>
+</p>
 
 ### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,npm,arduino,postman,socketio" />
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=git" height="50"/></a>
+  <a href="https://github.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=docker" height="50"/></a>
+  <a href="https://vercel.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=vercel" height="50"/></a>
+  <a href="https://www.netlify.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=netlify" height="50"/></a>
+  <a href="https://www.npmjs.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=npm" height="50"/></a>
+  <a href="https://www.arduino.cc/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=arduino" height="50"/></a>
+  <a href="https://www.postman.com/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=postman" height="50"/></a>
+  <a href="https://socket.io/" target="_blank" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=socketio" height="50"/></a>
+</p>
 
 ### Creative & Other
-
-<img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40"/>
-<img src="https://cdn.simpleicons.org/amd/ED1C24" width="40"/>
-<img src="https://cdn.simpleicons.org/nodemon/76D04B" width="40"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mocha" height="48" width="48" title="Mocha"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ps" height="48" width="48" title="Photoshop"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=lr" height="48" width="48" title="Lightroom"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pr" height="48" width="48" title="Premiere Pro"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ae" height="48" width="48" title="After Effects"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ai" height="48" width="48" title="Illustrator"/>
-
-
+<p align="center">
+  <a href="https://www.cisco.com/" target="_blank" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40"/></a>
+  <a href="https://www.amd.com/en/support" target="_blank" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/amd/ED1C24" width="40"/></a>
+  <a href="https://www.npmjs.com/package/nodemon" target="_blank" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/nodemon/76D04B" width="40"/></a>
+  <a href="https://mochajs.org/" target="_blank" style="text-decoration:none;"><img src="https://go-skill-icons.vercel.app/api/icons?i=mocha" width="48"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" style="text-decoration:none;"><img src="https://go-skill-icons.vercel.app/api/icons?i=ps" width="48"/></a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" style="text-decoration:none;"><img src="https://go-skill-icons.vercel.app/api/icons?i=lr" width="48"/></a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" style="text-decoration:none;"><img src="https://go-skill-icons.vercel.app/api/icons?i=pr" width="48"/></a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" style="text-decoration:none;"><img src="https://go-skill-icons.vercel.app/api/icons?i=ae" width="48"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" style="text-decoration:none;"><img src="https://go-skill-icons.vercel.app/api/icons?i=ai" width="48"/></a>
+</p>
 
 </div>
 
