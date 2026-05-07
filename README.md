@@ -19,25 +19,17 @@
 ---
 
 # 🌐 Connect With Me:
+
 <p align="center">
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/ladlijiibarsana">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" title="Instagram"/>
+  <a href="https://instagram.com/ladlijiibarsana" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
   </a>
-  &nbsp;
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/naivedh2518">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" title="LinkedIn"/>
+  <a href="https://linkedin.com/in/naivedh2518" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-  &nbsp;
-
-  <!-- Gmail -->
   <a href="mailto:naivedhpatel2518@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" title="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
-
 </p>
 
 ---
